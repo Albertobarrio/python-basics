@@ -1,6 +1,6 @@
 import unittest
 
-from ronam_numbers import roman_to_decimal
+from roman_numbers import roman_to_decimal
 
 # Test de numero romano a decimal
 
